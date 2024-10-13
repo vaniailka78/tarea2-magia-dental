@@ -14,7 +14,7 @@ export function Header() {
                         component="img"
                         height="80"
                         width="80"
-                        image='https://github.com/vaniailka78/tarea2-magia-dental/blob/main/recursos/image%201.png?raw=true'
+                        image='https://github.com/vaniailka78/tarea2-magia-dental/blob/master/recursos/image%201.png?raw=true'
                         alt='logo'
                     />
                 </Grid>

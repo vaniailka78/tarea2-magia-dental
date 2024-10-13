@@ -36,7 +36,7 @@ export function Hero() {
                     component="img"
                     height="420"
                     width="500"
-                    image='https://github.com/vaniailka78/tarea2-magia-dental/blob/main/recursos/image%202.png?raw=true'
+                    image='https://github.com/vaniailka78/tarea2-magia-dental/blob/master/recursos/image%202.png?raw=true'
                     alt='HeroImage'
                 />
             </Container>

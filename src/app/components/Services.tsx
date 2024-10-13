@@ -18,22 +18,22 @@ const servicesList = [
     {
         id: 1,
         name: 'Odontología Cosmética',
-        image: 'https://github.com/vaniailka78/tarea2-magia-dental/blob/main/recursos/image%204.png?raw=true'
+        image: 'https://github.com/vaniailka78/tarea2-magia-dental/blob/master/recursos/image%204.png?raw=true'
     },
     {
         id: 2,
         name: 'Odontología Restaurativa',
-        image: "https://github.com/vaniailka78/tarea2-magia-dental/blob/main/recursos/image%203.png?raw=true"
+        image: "https://github.com/vaniailka78/tarea2-magia-dental/blob/master/recursos/image%203.png?raw=true"
     },
     {
         id: 3,
         name: 'Odontopediatría',
-        image: 'https://github.com/vaniailka78/tarea2-magia-dental/blob/main/recursos/image%206.png?raw=true'
+        image: 'https://github.com/vaniailka78/tarea2-magia-dental/blob/master/recursos/image%206.png?raw=true'
     },
     {
         id: 4,
         name: 'Ortodoncia',
-        image: 'https://github.com/vaniailka78/tarea2-magia-dental/blob/main/recursos/image%205.png?raw=true'
+        image: 'https://github.com/vaniailka78/tarea2-magia-dental/blob/master/recursos/image%205.png?raw=true'
     },
 ];
 
